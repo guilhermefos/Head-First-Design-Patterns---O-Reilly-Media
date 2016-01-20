@@ -1,9 +1,9 @@
 
-public class DecoyDuck extends Duck {
+public class DecoyDuck extends Duck{
 
-	public void quack(){ };
+	public void quack(){ }
 	
-	public void display(){ };
+	public void display(){ }
 	
-	public void fly(){ };
+	public void fly(){ }
 }
